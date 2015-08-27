@@ -1,3 +1,2 @@
 # python-learn
-fork for continue
-fork for memories.
+fork for continue and fork for memories.
